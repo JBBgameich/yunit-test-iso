@@ -37,7 +37,7 @@ lb config \
  -m $MIRROR \
  --parent-mirror-binary $MIRROR \
  --mirror-bootstrap $MIRROR \
- --mirror-chroot $MIRRORL \
+ --mirror-chroot $MIRROR \
  --mirror-debian-installer $MIRROR \
  $@
 
